@@ -1,0 +1,13 @@
+
+
+                                                                            K18EN TIME-TABLE
+                                                                                                                                                
+                             DAYS         1            2          3            4           5           6           7           8     
+                                                                                                                                                 
+                            MONDAY       Break       Other     Teacher_A     Other       Other       Break       Break       Other    
+                            TUESDAY    Teacher_A     Other       Other       Break       Other     Teacher_A     Other       Other    
+                           WEDNESDAY     Other     Teacher_A     Other       Other       Other       Break       Other       Break    
+                           THRUSDAY    Teacher_A     Other       Other       Other       Other       Break     Teacher_A     Break    
+                            FRIDAY       Break     Teacher_A     Other       Break       Other     Teacher_A     Other       Other    
+
+                            
